@@ -25,8 +25,8 @@ This repository showcases evidence and reflections aligned with my personal and 
 
 ## 🌟 Career Counselling
 
-- **Evidence:** [See file](career-counselling/evidence.png)
-- **Reflection (STAR):** [Read reflection](career-counselling/reflection.md)
+- **Evidence:** [See file](careercounselling/evidence.png)
+- **Reflection (STAR):** [Read reflection](careercounselling/reflection.md)
 
 ---
 
